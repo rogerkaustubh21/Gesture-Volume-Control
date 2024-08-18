@@ -1,4 +1,4 @@
-# Gesture-Volume-Control
+# Gesture Volume Control
 
 This program uses the OpenCV and Mediapipe libraries to capture hand gestures from a webcam and adjust the system volume accordingly.
 
